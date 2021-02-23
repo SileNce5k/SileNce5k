@@ -1,6 +1,6 @@
 # Hello
 
-I am bad at this
+Welcome to my profile
 
 Stats
 =====
