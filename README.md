@@ -1,7 +1,3 @@
-# Hello
-
-Welcome to my profile
-
 Stats
 =====
 
